@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: henoctshimanga/python-app
   pullPolicy: IfNotPresent
-  tag: f6c662
+  tag: bfc36b
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
