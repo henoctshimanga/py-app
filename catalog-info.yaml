@@ -5,6 +5,7 @@ metadata:
   description: Python app that dislpays time.
   annotations:
    github.com/project-slug: henoctshimanga/py-app
+   backstage.io/techdocs-ref: dir:.
 
 spec:
   type: service
